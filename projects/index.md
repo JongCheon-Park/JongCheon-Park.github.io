@@ -10,7 +10,6 @@ comments: false
 ## <span style="color:Salmon"> Click the titles to see the details </span>
 
 <br>
-
 <details>
   <summary> <span style="font-size: 26px"> (2018.06 ~ 2018.11) 2018 R-BIZ Challenge Turtlebot3 Autorace </span> </summary>
   <div markdown="1">
