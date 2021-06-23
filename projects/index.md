@@ -11,7 +11,7 @@ comments: false
 
 <br>
 <details>
-  <summary> <span style="font-size: 26px"> (2018.06~2018.11)2018 R-BIZ challenge  터틀봇3 오토레이스 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2018.06~2018.11)2018 R-BIZ challenge  터틀봇3 오토레이스 </span> </summary>
   <div markdown="1">
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
@@ -35,7 +35,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 
 <br>
 <details>
-  <summary> <span style="font-size: 26px"> (2018.06~2018.11)다중주기 센서융합 기반 이동체 실시간 예측 제어 연구 </span> </summary>
+  <summary> <span style="font-size: 20px"> (2018.06~2018.11)다중주기 센서융합 기반 이동체 실시간 예측 제어 연구 </span> </summary>
   <div markdown="1">
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
