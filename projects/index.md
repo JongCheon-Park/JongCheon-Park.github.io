@@ -25,7 +25,7 @@ comments: false
 <br>
 
   <div markdown="1">
-***Keywords***: Unmanned Aerial Vehicle, Visual-Inertial Navigation System, Exploration, Artificial Intelligence
+***Keywords***: Autonomous Vehicle, Visual servoing, Multi-Channel LiDAR , Sensor Fusion
   </div>
 
 <p align="center">
