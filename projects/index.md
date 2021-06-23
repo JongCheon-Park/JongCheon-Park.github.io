@@ -14,9 +14,7 @@ comments: false
 <details>
   <summary> Research on Multi-Rate Sensor Fusion based Mobile Robot Model Predictive Control System </summary>
   <div markdown="1">
-## A Study on the Visual-Inertial Navigation System of Artificial Intelligent Unmanned Aerial Vehicle for Reconnaissance and Exploration
-*<span style="color:#ff5500">Hosted by [ROND](http://rond.or.kr/CmsHome/MainDefault.aspx) in KAIST : </span> 2020.5 - 2020.11*
-#### *This project was counducted at <span style="color:#3399ff">Urban Robotics Lab in KAIST : </span> [Link](http://urobot.kaist.ac.kr/)*
+#### *This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University : </span> [Link](http://control.knu.ac.kr/)*
   </div>
 <br>
 <p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
