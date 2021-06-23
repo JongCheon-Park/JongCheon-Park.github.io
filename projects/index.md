@@ -61,5 +61,3 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 </details>
     
 <br>
-
----
