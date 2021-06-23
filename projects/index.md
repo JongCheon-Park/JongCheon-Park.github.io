@@ -14,7 +14,7 @@ comments: false
 <details>
   <summary> <span style="font-size: 26px"> (2018.06 ~ 2018.11) 2018 R-BIZ Challenge Turtlebot3 Autorace </span> </summary>
   <div markdown="1">
-# This project was conducted at *<span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)*
+ This project was conducted at *<span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
       
 <br>
 <p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
@@ -29,7 +29,9 @@ comments: false
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j8nnk5R37XU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+      
 </details>
+    
 <br>
 
 ---
@@ -55,7 +57,9 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j8nnk5R37XU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+      
 </details>
+    
 <br>
 
 ---
