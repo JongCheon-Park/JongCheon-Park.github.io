@@ -7,12 +7,12 @@ comments: false
 
 ---
 
-## <span style="color:Fuchsia"> Click the titles to see the details </span>
+## <span style="color:Salmon"> Click the titles to see the details </span>
 
 <br>
 
 <details>
-  <summary> A Study on the Visual-Inertial Navigation System of Artificial Intelligent Unmanned Aerial Vehicle for Reconnaissance and Exploration </summary>
+  <summary> Research on Multi-Rate Sensor Fusion based Mobile Robot Model Predictive Control System </summary>
   <div markdown="1">
 ## A Study on the Visual-Inertial Navigation System of Artificial Intelligent Unmanned Aerial Vehicle for Reconnaissance and Exploration
 *<span style="color:#ff5500">Hosted by [ROND](http://rond.or.kr/CmsHome/MainDefault.aspx) in KAIST : </span> 2020.5 - 2020.11*
@@ -29,7 +29,7 @@ comments: false
   </div>
 
 <p align="center">
-    <iframe width="448" height="252" src="https://www.youtube.com/embed/5t-6g7UWA7o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    <iframe width="448" height="252" src="https://youtu.be/j8nnk5R37XU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     </iframe>
 </p>
 </details>
