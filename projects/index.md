@@ -11,7 +11,7 @@ comments: false
 
 <br>
 <details>
-  <summary> <span style="font-size: 26px"> (2018.06~2018.11)2018 R-BIZ Challenge Turtlebot3 Autorace </span> </summary>
+  <summary> <span style="font-size: 26px"> (2018.06~2018.11)2018 R-BIZ challenge  터틀봇3 오토레이스 </span> </summary>
   <div markdown="1">
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
