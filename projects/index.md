@@ -7,7 +7,7 @@ comments: false
 
 ---
 
-##<span style="color:Salmon"> Click the titles to see the details </span>
+<span style="color:Salmon"> Click the titles to see the details </span>
 
 <br>
 
