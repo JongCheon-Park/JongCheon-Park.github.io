@@ -6,7 +6,7 @@ date: 2021-08-09
 comments: false
 ---
     
-%<center><a href="https://github.com/JongCheon-Park/"><b>Here</b></a> is a github, Welcome my github.</center>
+<center><a href="https://github.com/JongCheon-Park/"><b>Here</b></a> is a github, Welcome my github.</center>
 
 ## Features
 * Minimal, you can focus on your content
