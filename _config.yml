@@ -1,6 +1,6 @@
 # Site
 title:              JongCheon Park
-bio:                'M.S. student, Daegu, Republic of Korea <hr width="20px"> <br> Reinforcement Learning, Imitation Learning, Control Theory <br> Robot Manipulator, Vehicle'
+bio:                'M.S. student, Daegu, Republic of Korea <hr width="100%"> <br> Reinforcement Learning, Imitation Learning, Control Theory <br> Robot Manipulator, Vehicle'
 description:        "JongCheon Park biography and blog."
 reading_time:       true
 words_per_minute:   150
