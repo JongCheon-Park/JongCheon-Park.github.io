@@ -13,8 +13,8 @@ comments: false
 
 # <span style="color:#800000">International Journal Papers</span>
 
-1. **Jongcheon Park**, Seungyong Han, Yongsik Jun, Sangmoon lee*, "Variable Impedance Control for Industrial Manipulators Based on Sensor-Less External Force Estimator for CPPS," IEMEK Journal of Embedded Systems and Applications, Vol. 14, Issue. 5, Pages. 259-267, 2019. (KSCI)
-2. Seonghyeon Jo, **Jongcheon Park**, Sangmoon lee*, "Virtual Imitation Learning method based on TD3-GAIL for robot manipulator," The Korean Institute of Electrical Engineers (KIEE), Vol. 70, No. 1, Pages. 145-151, 2021.
+1. **Jongcheon Park**, Seungyong Han, Yongsik Jun, Sangmoon lee*, "Variable Impedance Control for Industrial Manipulators Based on Sensor-Less External Force Estimator for CPPS," IEMEK Journal of Embedded Systems and Applications, Vol. 14, Issue. 5, Pages. 259-267, 2019. (KCI)
+2. Seonghyeon Jo, **Jongcheon Park**, Sangmoon lee*, "Virtual Imitation Learning method based on TD3-GAIL for robot manipulator," The Korean Institute of Electrical Engineers (KIEE), Vol. 70, No. 1, Pages. 145-151, 2021. (KCI)
 
 <br>
 
