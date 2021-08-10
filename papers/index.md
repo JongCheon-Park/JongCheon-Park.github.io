@@ -28,7 +28,7 @@ comments: false
 ### South Korea
 1. Seungyong Han, Yongsik Jin, **Jongcheon Park**, Kunho Kim, Ayong Choi, Sangmoon lee*, "Sampled-data Synchronization of Recurrent Neural Networks with Multi-GPUs," The 16th IEMEK Symposium on Embedded Technology ( ISET2019 ), Poster, 2019.
 2. Seungyong Han, Hyein Jung, **Jongcheon Park**, Sangmoon lee*, "The controller design for sampled-data control systems using a clock-dependent Lyapunov function and looped functionals," The 16th IEMEK Symposium on Embedded Technology ( ISET2020 ), Poster, 2020.
-3. **Jongcheon Park**, Seungyong Han, Hye-In Jung, Dong-Hee, Sangmoon lee*, "Sampled-data Synchronization of Recurrent Neural Networks with Multi-GPUs," The 16th IEMEK Symposium on Embedded Technology ( ISET2021 ), Poster, 2021.
+3. **Jongcheon Park**, Seungyong Han, Hye-In Jung, Dong-Hee, Sangmoon lee*, "Dual reward function based TD3-GAIL for imitation learning," The 16th IEMEK Symposium on Embedded Technology ( ISET2021 ), Poster, 2021.
 
 
 <br>
