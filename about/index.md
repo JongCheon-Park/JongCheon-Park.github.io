@@ -12,7 +12,7 @@ comments: false
     
 ## Education
 
-- 2020.03 ~ 2022.02 : 경북대학교 전기전자공학부 석사 [[Link](http://cpsc-lab.github.io)] <br>
+- 2020.03 ~ present : 경북대학교 전기전자공학부 석사 [[Link](http://cpsc-lab.github.io)] <br>
 
 - 2018.05 ~ 2020.02 : Cyber Physical System & Control Lab 학부연수생 [[Link](http://cpsc-lab.github.io)] <br>
 
