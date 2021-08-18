@@ -14,7 +14,7 @@ feature_row:
 ---
     
 <p align="center"><img src="/assets/img/selfie.jpg" width="300"></p><br>
-<p align="center"><span style='font-size: 50px'>박종천</span></p><br>
+<p align="center"><span style='font-size: 30px'><b>박 종 천</b></span></p><br>
 ## Features
 
 ## Preview
