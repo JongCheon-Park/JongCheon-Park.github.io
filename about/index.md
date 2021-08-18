@@ -7,7 +7,7 @@ comments: false
 ---
     
 <p align="center"><img src="/assets/img/selfie.jpg" width="300"></p><br>
-<p align="center">박종천</p><br>
+<p align="center"><span style='font-size: 20px'>박종천</span></p><br>
 ## Features
 * Minimal, you can focus on your content
 * Responsive
