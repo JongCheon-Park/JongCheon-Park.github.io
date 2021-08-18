@@ -6,7 +6,7 @@ date: 2021-08-09
 comments: false
 ---
     
-<p align="center"><img src="/assets/images/selfie.jpg" width="650"></p>
+<p align="center"><img src="/assets/img/selfie.jpg" width="650"></p>
 
 ## Features
 * Minimal, you can focus on your content
