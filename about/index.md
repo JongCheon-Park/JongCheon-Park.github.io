@@ -4,30 +4,23 @@ title: My Brief History
 tags: [about, Jekyll, theme, moon]
 date: 2021-08-09
 comments: false
+feature_row:
+
+  - image_path: /assets/img/selfie.jpg
+    image_caption: "2021"
+    title: "<span style='font-size: 30px'>클리닝 태스크</style>"
+    excerpt: "<span style='font-size: 20px'>로봇 매니퓰레이터 앤드이펙터의 접촉력을 추정하고 추정된 접촉력을 활용한 클리닝 태스크"
+
 ---
     
 <p align="center"><img src="/assets/img/selfie.jpg" width="300"></p><br>
 <p align="center"><span style='font-size: 50px'>박종천</span></p><br>
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
 ## Preview
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
+{% include feature_row id="intro" type="center" %}
+    
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
 ## Getting Started
