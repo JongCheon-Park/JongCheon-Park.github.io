@@ -15,3 +15,7 @@ comments: false
 - 2020.03 ~ 2022.02 : 경북대학교 전기전자공학부 석사<br>
 - 2014.03 ~ 2020.02 : 경북대학교 전자공학부 학사
 
+
+## Labs
+ 
+- 2018.05 ~ present : Cyber Physical System & Control Lab 학부연수생 및  [Link](http://cpsc-lab.github.io)
