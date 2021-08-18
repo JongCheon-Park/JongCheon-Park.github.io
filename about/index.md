@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Brief History
+title: About Me
 tags: [about, Jekyll, theme, moon]
 date: 2021-08-09
 comments: false
