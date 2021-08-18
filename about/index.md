@@ -7,7 +7,7 @@ comments: false
 
 ---
     
-<p align="center"><img src="/assets/img/selfie.jpg" width="100"></p><br>
+<p align="center"><img src="/assets/img/selfie.jpg"></p><br>
 <p align="center"><span style='font-size: 30px'><b>박 종 천</b></span></p><br>
     
 ## Education
