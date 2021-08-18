@@ -4,6 +4,7 @@ title: My Brief History
 tags: [about, Jekyll, theme, moon]
 date: 2021-08-09
 comments: false
+
 feature_row:
 
   - image_path: /assets/img/selfie.jpg
@@ -19,7 +20,7 @@ feature_row:
 
 ## Preview
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="feature_row" type="center" %}
     
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
