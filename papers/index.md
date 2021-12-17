@@ -20,10 +20,6 @@ comments: false
 
 <br>
 
----
-
----
-
 # <span style="color:#800000">Domestic Journal Papers</span>
 
 1. **Jongcheon Park**, Seungyong Han, Yongsik Jun, Sangmoon lee*, "Variable Impedance Control for Industrial Manipulators Based on Sensor-Less External Force Estimator for CPPS," IEMEK Journal of Embedded Systems and Applications, Vol. 14, Issue. 5, Pages. 259-267, 2019. (KCI)
