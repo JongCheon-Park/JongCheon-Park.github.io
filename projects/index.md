@@ -147,13 +147,6 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
    <p style="text-align:center;">그림 1. 대회주행 영상</p>
 </p>
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j8nnk5R37XU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
-</p>
-</details>
-    
-<br>
 
 ---
 
