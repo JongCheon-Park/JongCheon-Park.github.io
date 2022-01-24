@@ -209,7 +209,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 　모바일 로봇을 위한 라이다와 카메라센서 기반의 Path Planning 알고리즘 구현 및 적용
 </p>
 <p align="center">
-  <img height="250" src="/assets/img/2018_ETRI/visual_odom">
+  <img height="250" src="/assets/img/2018_ETRI/visual_odom.png">
 </p>
 <p align="center">
   <img height="250" src="/assets/img/2018_ETRI/velodyne_lidar.png">
