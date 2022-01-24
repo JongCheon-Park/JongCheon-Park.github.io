@@ -211,7 +211,10 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     
 <p align="center">
   <img height="250" src="/assets/img/2018_ETRI/vlp16.png">
+</p>
+<p align="center">
   <img height="250" src="/assets/img/2018_ETRI/path_planning.png">
+</p>
 <p align="center">
   <img height="250" src="/assets/img/2018_ETRI/path_planning2.png">
 </p>
