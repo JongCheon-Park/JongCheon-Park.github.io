@@ -117,6 +117,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     
 <p align="center">
   <img height="250" src="/assets/img/Leader_follower/state_equation.png">
+    <p style="text-align:center;">Leader-Follwer 추적 제어 시스템을 위한 상태 방정식</p>
 </p>
 </details>
     
