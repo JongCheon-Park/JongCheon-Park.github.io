@@ -203,15 +203,19 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     <br>
 <br>
 <p style="font-size:1.5rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
-　모바일 로봇을 위한 라이다와 카메라센서 기반의 Path Planning 알고리즘 구현 및 적용
+　모바일 로봇을 위한 라이다센서 기반의 Path Planning 알고리즘 구현 및 적용
 </p>
-<p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
-　Obstacle Detection, Mapping 그리고 Path Planning을 위한 LiDAR의 사용
-</p>
-    
+
 <p align="center">
   <img height="250" src="/assets/img/2018_ETRI/vlp16.png">
+    <p style="text-align:center;">라이다는 고출력의 펄스레이저를 이용하여 물체에 반사되어 돌아오는 레이저 빔의 시간을 측정하여 거리정보를 획득
+카메라센서만으로 측정이 어려운 거리정보나, 비가 오거나 어두운 환경에서도 주변의 물체를 인식할 수 있다.</p>
 </p>
+
+<p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
+　LiDAR를 이용한 Obstacle detection, Mapping과 A*기반의 Path Planning
+</p>
+
 <p align="center">
   <img height="250" src="/assets/img/2018_ETRI/path_planning.png">
 </p>
