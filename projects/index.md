@@ -146,7 +146,9 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
   <img height="250" src="/assets/img/Turtlebot3_AutoRacing/대회_영상.gif">
    <p style="text-align:center;">그림 1. 대회주행 영상</p>
 </p>
-
+</details>
+    
+<br>
 
 ---
 
