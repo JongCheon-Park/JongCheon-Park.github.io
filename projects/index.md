@@ -119,6 +119,12 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
   <img height="250" src="/assets/img/Leader_follower/state_equation.png">
     <p style="text-align:center;">Leader-Follwer 추적 제어 시스템을 위한 상태 방정식</p>
 </p>
+<br>
+<span style="font-size: 20px; color:black"> Gazebo 상에서 구현된 가상의 Leader 추적 제어 </span><br>
+<p align="center">
+  <img height="250" src="/assets/img/Leader_follower/gazebo_simulation.png">
+    <p style="text-align:center;">Leader-Follwer 추적 제어 시스템을 사용한 가상의 Leader 로봇 추적 시뮬레이션<br>빨간선 - 가상의 Leader의 궤적, 파란선 - Follwer의 궤적</p>
+</p>
 </details>
     
 <br>
