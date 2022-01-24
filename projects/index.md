@@ -205,9 +205,19 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 <p style="font-size:1.5rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
 　모바일 로봇을 위한 라이다와 카메라센서 기반의 Path Planning 알고리즘 구현 및 적용
 </p>
+<p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
+　Localization을 위한 Zed 카메라 Visual Odometry 활용
+</p>
 <p align="center">
   <img height="250" src="/assets/img/2018_ETRI/visual_odom.png">
 </p>
+Visual Odometry 측정 과정<br>
+■ 스트레오 카메라를 이용한 영상 입력<br>
+■ 왜곡 보정과 수정을 거친 후 거리 측정<br>
+■ 특징 찾기와 매칭<br>
+■ 병진 그리고 회전 행렬을 추정<br>
+Zed Camera는 해당과정을 이용한 Visual Odometry를 제공한다.<br>
+    
 <p align="center">
   <img height="250" src="/assets/img/2018_ETRI/velodyne_lidar.png">
   <img height="250" src="/assets/img/2018_ETRI/lidar_data.png">
