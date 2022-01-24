@@ -82,18 +82,28 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
   <summary> <span style="font-size: 20px"> (2019.04~2019.11) 로봇의 센서리스 기반 외력 추정 및 임피던스 제어 </span> </summary>
   <div markdown="1">
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
+본 연구사업은 과학기술정보통신부의 출연금 등으로 수행하고 있는 <b>한국전자통신연구원의 대경권 지역산업 기반 ICT 융합기술 고도화 지원사업 위탁연구과제</b>입니다.
+  </div>  
+    
+  <br>
+    <span style="font-size: 20px; color:black"> 연구목표 </span><br>
+    <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
+      <span style="font-size: 13px">
+        　■ 　토크 센서가 없는 로봇 매니퓰레이터에 대한 수학적 모델 기반 외력 추정 알고리즘 개발<br>
+         　■ 　모델 불확실성에 강인한 센서리스 임피던스 제어 알고리즘 개발<br>
+         　■ 　7축 로봇 매니퓰레이터 대상 태스크 종속적인 임피던스 제어 타당성 검증<br>
+         　■ 　<b>[맡은 역할] 실험 환경 구성 및 알고리즘 코드 구현</b><br>
+         　■ 　<b>[맡은 역할] ROS 기반의 매니퓰레이터 제어 시스템 구축</b><br>
+        </span>
+    </div>
+    <br>
+<br>
   </div>  
 <br>
-<p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
-　Research on Unmanned Aerial Vehicles has been actively conducted in recent years. In particular, the UAV to explore an unknown, GNSS-denied environment is required, but the self-localization method, such as Visual Inertial Odometry, is mandatory to operate it. Considering the payload and the operating time of the UAV, lightweight and low-power consuming cameras and IMU are preferred, and even Object Detection and 3D Mapping can be obtained using a RGB-D camera. In this work, we developed a 3D Mapping system including object positions in an unknown and GNSS-denied environment for the UAV with a RGB-D camera. The system is demonstrated in Gazebo simulator, and the quantitative and qualitative results are obtained.</p>
-
-<br>
-
-***Keywords***: Autonomous Vehicle, Visual servoing, Multi-Channel LiDAR , Sensor Fusion
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j8nnk5R37XU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
+  <img height="250" src="/assets/img/2019_ETRI/force-estimation.gif">
+    <p style="text-align:center;">실제 실험을 통한 각도 및 각속도 추정기반의 추적 제어 알고리즘 성능 검증<br>Leader 로봇은 선속도 0.2m/s, 각속도 0.15rad/s로 움직인다.<br>실험을 통해 측정한 결과 평균오차 4%~6%를 기록하였다.</p>
 </p>
 </details>
     
