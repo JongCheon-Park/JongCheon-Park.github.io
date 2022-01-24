@@ -32,6 +32,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 <br>
 
 ---
+
 <br>
 <details>
   <summary> <span style="font-size: 20px"> (2020.09~) 로봇 매니퓰레이터를 위한 모방학습 방법 [Paper] - Under Review </span> </summary>
@@ -46,10 +47,6 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 
 ***Keywords***: Autonomous Vehicle, Visual servoing, Multi-Channel LiDAR , Sensor Fusion
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j8nnk5R37XU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
-</p>
 </details>
     
 <br>
