@@ -138,9 +138,6 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 　2018 R-BIZ Challenge 터틀봇 3 오토레이스는 주어진 6개의 미션 (1. 신호등 미션, 2. 삼거리 미션, 3. 공사구간 미션, 4. 주차 미션, 5. 차단 바 미션, 6. 터널 미션)을 수행하며 사전에 설계된 경기장을 1회 주행하는 것을 목표로 한다.
 </p>
 
-<br>
-
-***Keywords***: Autonomous Vehicle, Turtlebot3 AutoRacing, LiDAR, Sensor Fusion
 
 <br>
 <p style="font-size:1.5rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
@@ -168,6 +165,12 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 <p align="center">
     <img height="250" src="/assets/img/Turtlebot3_AutoRacing/racing.gif">
     <p style="text-align:center;">그림 1. 대회주행 영상</p>
+</p>
+                                 
+                                 
+<p align="center">
+  <img height="250" src="/assets/img/Turtlebot3_AutoRacing/award.jpg">
+    <p style="text-align:center;">그림 2. (학부생  박종천, 이응창, 김범주, 대학원생 진용식)으로 이루어진 '응창호'팀이 11월 15~17일 3일간 대구 엑스코 전시장에서 열린 '2018 대구국제로봇산업전 R-BIZ Challenge 터틀봇3 오토레이스'부문에서 16일 준결승전에서 4등을 기록하는 등 '매스웍스 코리아 대표이사상'(상금 100만원 등)을 수상</p>
 </p>
 </details>
     
