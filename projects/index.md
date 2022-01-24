@@ -189,11 +189,9 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
   <div markdown="1">
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
-<br>
     
-<div style="border: 1px solid black; padding: 10px; border-color: #E6E6E6; background-color: #EFFBF5;"> 
   <br>
-    <span style="font-size: 30px; color:green"> 연구목표 </span><br>
+    <span style="font-size: 20px; color:black"> 연구목표 </span><br>
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
         　■ 　다양한 샘플링 주기를 가지는 시스템의 안정성 및 제어 성능 향상을 위한 기법 연구 <br>
@@ -203,8 +201,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
         </span>
     </div>
     <br>
-    <br>
-    <span style="font-size: 30px; color:green"> 연구내용 </span><br>
+    <span style="font-size: 20px; color:black"> 연구내용 </span><br>
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color:rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
    　■ 　다중주기 샘플 데이터 시스템에 대한 기존의 연구 내용 조사 및 분석 <br>
