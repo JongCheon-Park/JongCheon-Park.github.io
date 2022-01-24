@@ -105,6 +105,11 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
   <img height="250" src="/assets/img/2019_ETRI/force-estimation.gif">
     <p style="text-align:center;">0번 조인트에 대한 외력추정 태스크<br>빨간 선 - 토크 센서로부터 측정된 토크, 파란 선 - 외력 추정 알고리즘에 의해 추정된 토크</p>
 </p>
+
+<p align="center">
+  <img height="250" src="/assets/img/2019_ETRI/framework.png">
+    <p style="text-align:center;">ROS 기반의 RNE 외력 추정 및 제어 시스템 구성</p>
+</p>
 </details>
     
 <br>
