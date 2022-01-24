@@ -146,7 +146,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 
 <br>
 <p style="font-size:1.5rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
-　2018 R-BIZ Challenge Turtlebot3 AutoRacing Missions
+　Turtlebot3 AutoRacing Missions
 </p>
 <p align="center">
   <img height="250" src="/assets/img/Turtlebot3_AutoRacing/traffic.JPG">
@@ -199,13 +199,33 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
         　■ 　다양한 샘플링 주기를 가지는 시스템의 안정성 및 제어 성능 향상을 위한 기법 연구 <br>
          　■ 　다중 샘플링 주기를 가지는 샘플 데이터 시스템을 위한 상태 추정기 설계 <br>
          　■ 　불확실성 및 왜란에 대응한 실시간 동작을 위한 모델 기반 예측 제어기 설계<br>
-         　■ 　<b>[맡은 역할] 모바일 로봇을 위한 라이다와 카메라센서 기반의 경로 추적 알고리즘 구현 및 적용</b><br>
+         　■ 　<b>[맡은 역할] 모바일 로봇을 위한 라이다와 카메라센서 기반의 Path Planning 알고리즘 구현 및 적용</b><br>
          　■ 　<b>[맡은 역할] ROS 기반의 모바일 로봇 제어 시스템 구축</b><br>
         </span>
     </div>
     <br>
 <br>
-    
+<p style="font-size:1.5rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
+　모바일 로봇을 위한 라이다와 카메라센서 기반의 Path Planning 알고리즘 구현 및 적용
+</p>
+<p align="center">
+  <img height="250" src="/assets/img/2018_ETRI/visual_odom">
+</p>
+<p align="center">
+  <img height="250" src="/assets/img/2018_ETRI/velodyne_lidar.png">
+  <img height="250" src="/assets/img/2018_ETRI/lidar_data.png">
+<p align="center">
+  <img height="250" src="/assets/img/2018_ETRI/path_planning.png">
+</p>
+<p align="center">
+  <img height="250" src="/assets/img/2018_ETRI/ros_data.png">
+</p>
+<p align="center">
+  <img height="250" src="/assets/img/2018_ETRI/autonomous.png">
+</p>
+<p align="center">
+  <img height="250" src="/assets/img/2018_ETRI/control_system.png">
+</p>
 <p align="center">
   <img height="250" src="/assets/img/2018_ETRI/husky-experiment.gif">
     <p style="text-align:center;">그림 1. Husky로봇 야외 실험영상</p>
