@@ -137,7 +137,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 <span style="font-size: 20px; color:black"> 실제 실험을 통한 검증 </span><br>
 <p align="center">
   <img height="250" src="/assets/img/Leader_follower/experiment.gif">
-    <p style="text-align:center;">실제 실험을 통한 각도 및 각속도 추정기반의 추적 제어 알고리즘 성능 검증<br>Leader 로봇은 선속도 0.2m/s, 각속도 0.15rad/s로 움직인다.<실험을 통해 측정한 결과 평균오차 4%~6%를 기록하였다.</p>
+    <p style="text-align:center;">실제 실험을 통한 각도 및 각속도 추정기반의 추적 제어 알고리즘 성능 검증<br>Leader 로봇은 선속도 0.2m/s, 각속도 0.15rad/s로 움직인다.<br>실험을 통해 측정한 결과 평균오차 4%~6%를 기록하였다.</p>
 </p>
 </details>
     
