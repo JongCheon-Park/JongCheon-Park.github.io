@@ -144,7 +144,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 　2018 R-BIZ Challenge Turtlebot3 AutoRacing Missions
 </p>
 <p align="center">
-  <img height="250" src="/assets/img/Turtlebot3_AutoRacing/traffic.JPG
+  <img height="250" src="/assets/img/Turtlebot3_AutoRacing/traffic.JPG">
 </p>
 <p align="center">
   <img height="250" src="/assets/img/Turtlebot3_AutoRacing/intersection.JPG">
@@ -170,7 +170,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
                                  
 <p align="center">
   <img height="250" src="/assets/img/Turtlebot3_AutoRacing/award.jpg">
-    <p style="text-align:center;">그림 2. (학부생  박종천, 이응창, 김범주, 대학원생 진용식)으로 이루어진 '응창호'팀이 11월 15~17일 3일간 대구 엑스코 전시장에서 열린 '2018 대구국제로봇산업전 R-BIZ Challenge 터틀봇3 오토레이스'부문에서 16일 준결승전에서 4등을 기록하는 등 '매스웍스 코리아 대표이사상'(상금 100만원 등)을 수상</p>
+    <p style="text-align:center;"> 학부생 (박종천, 이응창, 김범주, 대학원생 진용식)으로 이루어진 '응창호'팀이 11월 15~17일 3일간 대구 엑스코 전시장에서 열린 '2018 대구국제로봇산업전 R-BIZ Challenge 터틀봇3 오토레이스'부문에서 16일 준결승전에서 4등을 기록하는 등 <b>'매스웍스 코리아 대표이사상'(상금 100만원 등)</b>을 수상</p>
 </p>
 </details>
     
