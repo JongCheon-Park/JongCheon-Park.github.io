@@ -131,6 +131,12 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
   <img height="250" src="/assets/img/Leader_follower/yolov2.gif">
     <p style="text-align:center;">YOLOv2를 사용한 Leader 로봇 인식</p>
 </p>
+<br>
+<span style="font-size: 20px; color:black"> 실제 실험을 통한 검증 </span><br>
+<p align="center">
+  <img height="250" src="/assets/img/Leader_follower/experiment.gif">
+    <p style="text-align:center;">실제 실험을 통한 각도 및 각속도 추정기반의 추적 제어 알고리즘 성능 검증</p>
+</p>
 </details>
     
 <br>
