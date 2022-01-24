@@ -132,6 +132,8 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     <p style="text-align:center;">YOLOv2를 사용한 Leader 로봇 인식</p>
 </p>
 <br>
+<span style="font-size: 15px; color:black"> 1. Leader 로봇을 인식하고 Depth 카메라를 이용하여 거리값을 측정한다.<br> 2. Localization을 통하여 Global 맵상에 Leader 로봇의 궤적을 기록한다.<br> 3. 궤적중 여러 포인트를 샘플링하고 평균필터를 이용하여 리더 로봇의 각도와 각속도를 추정한다.<br> 4. 실험을 통해 측정한 결과 평균오차 4%~6%를 기록하였다. </span><br>
+<br>
 <span style="font-size: 20px; color:black"> 실제 실험을 통한 검증 </span><br>
 <p align="center">
   <img height="250" src="/assets/img/Leader_follower/experiment.gif">
