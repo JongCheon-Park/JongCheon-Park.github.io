@@ -213,7 +213,12 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     </div>
 <br>
     
-    
+<p align="center">
+  <img height="250" src="/assets/img/2018_ETRI/husky-experiment.gif">
+</p>
+<p align="center">
+  <img height="250" src="/assets/img/2018_ETRI/husky-experiment2.gif"> 
+</p>
     
     
 </details>
