@@ -203,7 +203,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     <br>
 <br>
 <p style="font-size:1.5rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
-　모바일 로봇을 위한 라이다센서 기반의 Path Planning 알고리즘 구현 및 적용
+라이다센서 기반의 Path Planning 알고리즘 구현 및 적용
 </p>
 
 <p align="center">
@@ -212,8 +212,8 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 카메라센서만으로 측정이 어려운 거리정보나, 비가 오거나 어두운 환경에서도 주변의 물체를 인식할 수 있다.</p>
 </p>
 
-<p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
-　LiDAR를 이용한 Obstacle detection, Mapping과 A*기반의 Path Planning
+<p style="font-size:1.5rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
+    <b>LiDAR를 이용한 Obstacle detection, Mapping과 A*기반의 Path Planning</b>
 </p>
 
 <p align="center">
@@ -225,19 +225,23 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 <p align="center">
   <img height="250" src="/assets/img/2018_ETRI/path_planning3.png">
 </p>
+
+<p style="font-size:1.5rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
+    <b>LiDAR를 이용한 Obstacle detection, Mapping과 A*기반의 Path Planning</b>
+</p>
+
 <p align="center">
   <img height="250" src="/assets/img/2018_ETRI/autonomous.png">
+  <p style="text-align:center;">ROS 기반의 autonomous vehicle control system</p>
 </p>
-<p align="center">
-  <img height="250" src="/assets/img/2018_ETRI/control_system.png">
-</p>
+
 <p align="center">
   <img height="250" src="/assets/img/2018_ETRI/husky-experiment.gif">
-    <p style="text-align:center;">그림 1. Husky로봇 야외 실험영상</p>
+    <p style="text-align:center;">Husky로봇 야외 실험영상</p>
 </p>
 <p align="center">
   <img height="250" src="/assets/img/2018_ETRI/husky-experiment2.gif"> 
-    <p style="text-align:center;">그림 2. 라이다 센서 기반의 Path planning </p>
+    <p style="text-align:center;">라이다 센서 기반의 Path planning </p>
 </p>
     
     
