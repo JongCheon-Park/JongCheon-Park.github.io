@@ -109,7 +109,8 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
   </div>  
 <br>
 <p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
-　Research on Unmanned Aerial Vehicles has been actively conducted in recent years. In particular, the UAV to explore an unknown, GNSS-denied environment is required, but the self-localization method, such as Visual Inertial Odometry, is mandatory to operate it. Considering the payload and the operating time of the UAV, lightweight and low-power consuming cameras and IMU are preferred, and even Object Detection and 3D Mapping can be obtained using a RGB-D camera. In this work, we developed a 3D Mapping system including object positions in an unknown and GNSS-denied environment for the UAV with a RGB-D camera. The system is demonstrated in Gazebo simulator, and the quantitative and qualitative results are obtained.</p>
+　팔로워 로봇은 카메라를 이용하여 리더 로봇를 인식하고, 인식된 팔로워의 속도 및 각속도를 설계된 알고리즘에 의해 추정한다. 해당 프로젝트는 추정된 속도 및 각속도를 활용하여 리더-팔로워 추적 제어 구현을 목표로 한다.
+</p>
 
 <br>
 
