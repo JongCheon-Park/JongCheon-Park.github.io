@@ -132,12 +132,12 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     <p style="text-align:center;">YOLOv2를 사용한 Leader 로봇 인식</p>
 </p>
 <br>
-<span style="font-size: 15px; color:black"> 1. Leader 로봇을 인식하고 Depth 카메라를 이용하여 거리값을 측정한다.<br> 2. Localization을 통하여 Global 맵상에 Leader 로봇의 궤적을 기록한다.<br> 3. 궤적중 여러 포인트를 샘플링하고 평균필터를 이용하여 리더 로봇의 각도와 각속도를 추정한다.<br> 4. 실험을 통해 측정한 결과 평균오차 4%~6%를 기록하였다. </span><br>
+<span style="font-size: 15px; color:black"> 1. Leader 로봇을 인식하고 Depth 카메라를 이용하여 거리값을 측정한다.<br> 2. Localization을 통하여 Global 맵상에 Leader 로봇의 궤적을 기록한다.<br> 3. 궤적중 여러 포인트를 샘플링하고 평균필터를 이용하여 리더 로봇의 각도와 각속도를 추정한다.<br> 4. 추정된 Leader 로봇의 각도와 각속도를 리더 추적 제어 시스템에 대입하여 추적제어를 수행한다. </span><br>
 <br>
 <span style="font-size: 20px; color:black"> 실제 실험을 통한 검증 </span><br>
 <p align="center">
   <img height="250" src="/assets/img/Leader_follower/experiment.gif">
-    <p style="text-align:center;">실제 실험을 통한 각도 및 각속도 추정기반의 추적 제어 알고리즘 성능 검증<br>Leader 로봇은 선속도 0.2m/s, 각속도 0.15rad/s로 움직인다.</p>
+    <p style="text-align:center;">실제 실험을 통한 각도 및 각속도 추정기반의 추적 제어 알고리즘 성능 검증<br>Leader 로봇은 선속도 0.2m/s, 각속도 0.15rad/s로 움직인다.<실험을 통해 측정한 결과 평균오차 4%~6%를 기록하였다.</p>
 </p>
 </details>
     
