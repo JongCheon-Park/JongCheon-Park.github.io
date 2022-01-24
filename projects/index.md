@@ -206,9 +206,11 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     
 <p align="center">
   <img height="250" src="/assets/img/2018_ETRI/husky-experiment.gif">
+    <p style="text-align:center;">그림 1. Husky로봇 야외 실험영상</p>
 </p>
 <p align="center">
   <img height="250" src="/assets/img/2018_ETRI/husky-experiment2.gif"> 
+    <p style="text-align:center;">그림 2. 라이다 센서 기반의 Path planning </p>
 </p>
     
     
