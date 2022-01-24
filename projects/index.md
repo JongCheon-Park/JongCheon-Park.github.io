@@ -103,7 +103,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 
 <p align="center">
   <img height="250" src="/assets/img/2019_ETRI/force-estimation.gif">
-    <p style="text-align:center;">실제 실험을 통한 각도 및 각속도 추정기반의 추적 제어 알고리즘 성능 검증<br>Leader 로봇은 선속도 0.2m/s, 각속도 0.15rad/s로 움직인다.<br>실험을 통해 측정한 결과 평균오차 4%~6%를 기록하였다.</p>
+    <p style="text-align:center;">0번 조인트에 대한 외력추정 태스크<br>빨간 선 - 토크 센서로부터 측정된 토크, 파란 선 - 외력 추정 알고리즘에 의해 추정된 </p>
 </p>
 </details>
     
