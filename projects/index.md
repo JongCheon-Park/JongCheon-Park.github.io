@@ -210,13 +210,13 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 </p>
     
 <p align="center">
-  <img height="250" src="/assets/img/2018_ETRI/velodyne_lidar.png">
-  <img height="250" src="/assets/img/2018_ETRI/lidar_data.png">
-<p align="center">
+  <img height="250" src="/assets/img/2018_ETRI/vlp16.png">
   <img height="250" src="/assets/img/2018_ETRI/path_planning.png">
+<p align="center">
+  <img height="250" src="/assets/img/2018_ETRI/path_planning2.png">
 </p>
 <p align="center">
-  <img height="250" src="/assets/img/2018_ETRI/ros_data.png">
+  <img height="250" src="/assets/img/2018_ETRI/path_planning3.png">
 </p>
 <p align="center">
   <img height="250" src="/assets/img/2018_ETRI/autonomous.png">
