@@ -187,7 +187,9 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 <details>
   <summary> <span style="font-size: 20px"> (2018.06~2018.11) 다중주기 센서융합 기반 이동체 실시간 예측 제어 연구 </span> </summary>
   <div markdown="1">
-This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
+This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)<br>
+      본 연구사업은 과학기술정보통신부의 출연금 등으로 수행하고 있는 <b>한국전자통신연구원의 대경권 지역산업 기반 ICT 융합기술 고도화 지원사업 위탁연구과제</b>입니다.
+
   </div>  
     
   <br>
