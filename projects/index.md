@@ -185,15 +185,35 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
 <br>
-<p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
-　Research on Unmanned Aerial Vehicles has been actively conducted in recent years. In particular, the UAV to explore an unknown, GNSS-denied environment is required, but the self-localization method, such as Visual Inertial Odometry, is mandatory to operate it. Considering the payload and the operating time of the UAV, lightweight and low-power consuming cameras and IMU are preferred, and even Object Detection and 3D Mapping can be obtained using a RGB-D camera. In this work, we developed a 3D Mapping system including object positions in an unknown and GNSS-denied environment for the UAV with a RGB-D camera. The system is demonstrated in Gazebo simulator, and the quantitative and qualitative results are obtained.</p>
+    
+<div style="border: 1px solid black; padding: 10px; border-color: #E6E6E6; background-color: #EFFBF5;"> 
+  <br>
+    <span style="font-size: 30px; color:green"> 연구목표 </span><br>
+    <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
+      <span style="font-size: 13px">
+        　■ 　다양한 샘플링 주기를 가지는 시스템의 안정성 및 제어 성능 향상을 위한 기법 연구 <br>
+         　■ 　다중 샘플링 주기를 가지는 샘플 데이터 시스템을 위한 상태 추정기 설계 <br>
+         　■ 　불확실성 및 왜란에 대응한 실시간 동작을 위한 모델 기반 예측 제어기 설계<br>
+         　■ 　다른 샘플링 주기를 가진 라이다와 카메라를 이용하는 모바일 로봇을 위한 경로 추적 알고리즘 구현 및 적용
+        </span>
+    </div>
+    <br>
+    <br>
+    <span style="font-size: 30px; color:green"> 연구내용 </span><br>
+    <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color:rgba(211, 211, 211, 0.2);"> 
+      <span style="font-size: 13px">
+   　■ 　다중주기 샘플 데이터 시스템에 대한 기존의 연구 내용 조사 및 분석 <br>
+   　■ 　다중 샘플링 주기를 가지는 샘플 데이터 시스템을 위한 상태 추정기 설계를 위해 새로운 리아프노프 함수 도입 및 안정화 조건 도출<br>
+   　■ 　시스템의 제한 조건과 불확실성 및 왜란을 고려하는 explicit MPC 설계<br>
+   　■ 　ROS 기반의 카메라, 라이라, 모바일 로봇 제어 시스템 구축<br>
+   　■ 　카메라와 라이다기반의 모바일 로봇을 위한 경로 추정 알고리즘 설계 및 구현
+        </span>
+    </div>
 <br>
-
-
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j8nnk5R37XU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
-</p>
+    
+    
+    
+    
 </details>
     
 <br>
