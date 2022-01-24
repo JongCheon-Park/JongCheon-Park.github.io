@@ -113,9 +113,8 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 </p>
 
 <br>
-
-***Keywords***: Autonomous Vehicle, Visual servoing, Multi-Channel LiDAR , Sensor Fusion
-
+<span style="font-size: 20px; color:black"> Leader-Follower 추적 제어를 위한 기구학적 모델링 </span><br>
+    
 <p align="center">
   <img height="250" src="/assets/img/Leader_follower/state_equation.png">
 </p>
@@ -124,6 +123,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 <br>
 
 ---
+
 <br>
 <details>
   <summary> <span style="font-size: 20px"> (2018.06~2018.11) 2018 R-BIZ challenge  터틀봇3 오토레이스 </span> </summary>
