@@ -143,7 +143,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 ***Keywords***: Autonomous Vehicle, Turtlebot3 AutoRacing, LiDAR, Sensor Fusion
 
 <br>
-<p style="font-size:2rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
+<p style="font-size:1.5rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
 　2018 R-BIZ Challenge Turtlebot3 AutoRacing Missions
 </p>
 <p align="center">
