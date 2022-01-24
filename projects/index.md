@@ -135,7 +135,13 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
   </div>  
 <br>
 <p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
-　2018 R-BIZ Challenge 터틀봇 3 오토레이스는 주어진 6개의 미션 (1. 신호등 미션, 2. 삼거리 미션, 3. 공사구간 미션, 4. 주차 미션, 5. 차단 바 미션, 6. 터널 미션)을 수행하며 사전에 설계된 경기장을 1회 주행하는 것을 목표로 한다.
+    
+    <span style="font-size: 30px; color:green"> 대회목표 </span><br>
+    <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
+      <span style="font-size: 13px">
+        　2018 R-BIZ Challenge 터틀봇 3 오토레이스는 주어진 6개의 미션 (1. 신호등 미션, 2. 삼거리 미션, 3. 공사구간 미션, 4. 주차 미션, 5. 차단 바 미션, 6. 터널 미션)을 수행하며 사전에 설계된 경기장을 1회 주행하는 것을 목표로 한다.
+        </span>
+    </div>
 </p>
 
 
