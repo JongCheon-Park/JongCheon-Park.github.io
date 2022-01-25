@@ -155,6 +155,16 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     </div>
     <br>
 <br>
+    
+<p align="center">
+  <img height="250" src="/assets/img/2019_ETRI/framework.png">
+    <p style="text-align:center;">ROS 기반의 RNE 외력 추정 및 제어 시스템 구성</p>
+</p>
+    
+<p align="center">
+  <img height="250" src="/assets/img/2019_ETRI/python_c.bmp">
+    <p style="text-align:center;">M,C,G 행렬 계산에 소요되는 시간 Python과 C의 비교</p>
+</p>
 
 <p align="center">
   <img height="250" src="/assets/img/2019_ETRI/force-estimation.gif">
@@ -168,9 +178,11 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 </p>
 
 <p align="center">
-  <img height="250" src="/assets/img/2019_ETRI/framework.png">
-    <p style="text-align:center;">ROS 기반의 RNE 외력 추정 및 제어 시스템 구성</p>
+  <img height="250" src="/assets/img/2019_ETRI/estimation.bmp">
+    <p style="text-align:center;">각 조인트의 외력추정 성능 </p>
 </p>
+
+
 </details>
     
 <br>
