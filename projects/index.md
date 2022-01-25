@@ -155,12 +155,16 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     </div>
     <br>
 <br>
-  </div>  
-<br>
 
 <p align="center">
   <img height="250" src="/assets/img/2019_ETRI/force-estimation.gif">
     <p style="text-align:center;">0번 조인트에 대한 외력추정 태스크<br>빨간 선 - 토크 센서로부터 측정된 토크, 파란 선 - 외력 추정 알고리즘에 의해 추정된 토크</p>
+</p>
+
+
+<p align="center">
+  <img height="250" src="/assets/img/2019_ETRI/force-estimation2.gif">
+    <p style="text-align:center;">외력추정 태스크<br>빨간 선 - ESO 알고리즘에 의해 정된 토크, 파란 선 - 센서에 의해 추정된 토크, 검은 선 - SMO에 의해 추정된 토크</p>
 </p>
 
 <p align="center">
