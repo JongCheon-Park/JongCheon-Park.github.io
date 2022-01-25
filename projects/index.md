@@ -46,9 +46,9 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
         　■ 　일반적으로 로봇에 적용하기 위한 모방학습 알고리즘은 상태-행동 데이터 쌍을 필요로 한다. <br>
-　　　　기구학적 또는 비용적인 면에서 힘/토크 센서를 장착할 수 없는 경우에 시연으로부터 행동 데이터를 수집하기 어렵다.<br>
+　　기구학적 또는 비용적인 면에서 힘/토크 센서를 장착할 수 없는 경우에 시연으로부터 행동 데이터를 수집하기 어렵다.<br>
         　 ■ 　관측에 의한 모방학습 방법은 상태 데이터만을 활용한 모방학습 방법으로 제안되었지만, <br>
-               　　　　계산복잡성에 의해 실제 로봇에 적용하기 어려운 문제가 있다.<br>
+               　　계산복잡성에 의해 실제 로봇에 적용하기 어려운 문제가 있다.<br>
          　■ 　행동 데이터를 수집할 수 없는 상황에 적용할 수 있는 효과적인 모방학습 방법이 필요하다. <br>
         </span>
     </div>
