@@ -38,7 +38,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
   <summary> <span style="font-size: 20px"> (2020.09~) [Paper] Restored Action Generative Adversarial Imitation Learning from Observation for Robot Manipulator - Under Review </span> </summary>
   <div markdown="1">
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
-      본 논문은 2021년 5월 ISA Transactions (IF 5.468)에 투고하여 Major Revision을 거친 후 <b>Under review</b> 상태 입니다.
+      <br>본 논문은 2021년 5월 ISA Transactions (IF 5.468)에 투고하여 Major Revision을 거친 후 22년 1월 기준 <b>Under review</b> 상태 입니다.
   </div>  
     
   <br>
