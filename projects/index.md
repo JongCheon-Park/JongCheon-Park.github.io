@@ -35,14 +35,26 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 
 <br>
 <details>
-  <summary> <span style="font-size: 20px"> (2020.09~) 로봇 매니퓰레이터를 위한 모방학습 방법 [Paper] - Under Review </span> </summary>
+  <summary> <span style="font-size: 20px"> (2020.09~) [Paper] Restored Action Generative Adversarial Imitation Learning from Observation for Robot Manipulator - Under Review </span> </summary>
   <div markdown="1">
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
+      본 논문은 2021년 5월 ISA Transactions (IF 5.468)에 투고하여 Major Revision을 거친 후 <b>Under review</b> 상태 입니다.
   </div>  
+    
+  <br>
+    <span style="font-size: 20px; color:black"> Motivation </span><br>
+    <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
+      <span style="font-size: 13px">
+        　■ 　토크 센서가 없는 로봇 매니퓰레이터에 대한 수학적 모델 기반 외력 추정 알고리즘 개발<br>
+         　■ 　모델 불확실성에 강인한 센서리스 임피던스 제어 알고리즘 개발<br>
+         　■ 　7축 로봇 매니퓰레이터 대상 태스크 종속적인 임피던스 제어 타당성 검증<br>
+         　■ 　<b>[맡은 역할] 실험 환경 구성 및 알고리즘 코드 구현</b><br>
+         　■ 　<b>[맡은 역할] ROS 기반의 매니퓰레이터 제어 시스템 구축</b><br>
+        </span>
+    </div>
+    <br>
 <br>
-<p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
-　Research on Unmanned Aerial Vehicles has been actively conducted in recent years. In particular, the UAV to explore an unknown, GNSS-denied environment is required, but the self-localization method, such as Visual Inertial Odometry, is mandatory to operate it. Considering the payload and the operating time of the UAV, lightweight and low-power consuming cameras and IMU are preferred, and even Object Detection and 3D Mapping can be obtained using a RGB-D camera. In this work, we developed a 3D Mapping system including object positions in an unknown and GNSS-denied environment for the UAV with a RGB-D camera. The system is demonstrated in Gazebo simulator, and the quantitative and qualitative results are obtained.</p>
-
+  </div>  
 <br>
 
 ***Keywords***: Autonomous Vehicle, Visual servoing, Multi-Channel LiDAR , Sensor Fusion
