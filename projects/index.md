@@ -107,7 +107,6 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)<br>
 본 연구사업은 과학기술정보통신부의 출연금 등으로 수행하고 있는 <b>한국전자통신연구원의 대경권 지역산업 기반 ICT 융합기술 고도화 지원사업 위탁연구과제</b>입니다.
   </div>  
-<br>
   <br>
     <span style="font-size: 20px; color:black"> 연구목표 </span><br>
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
