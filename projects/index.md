@@ -211,7 +211,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 </p>
 
 <span style="font-size: 20px; color:black"> 연구결과 </span><br>
-c++을 이용하여 7축 매니퓰레이터를 위한 recursive Newton-Eulor 방법을 코드로 구현함으로서 Python 코드 보다 26배 계산속도 향상<br>
+c++을 이용하여 7축 매니퓰레이터를 위한 recursive Newton-Eulor 방법을 코드로 구현함으로서<br>Python으로 작성된 코드와 비교하여 계산속도 향상<br>
 모델 불확실성에도 강인한 sliding mode observer 설계<br>
 외력 추정기 기반 Joint space의 임피던스 제어기 설계<br>
 
