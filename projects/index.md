@@ -53,12 +53,16 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
         </span>
     </div>
     <br>
-<br>
-  </div>  
-<br>
-
-***Keywords***: Autonomous Vehicle, Visual servoing, Multi-Channel LiDAR , Sensor Fusion
-
+    <br>
+    <span style="font-size: 20px; color:black"> Contribution </span><br>
+    <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
+      <span style="font-size: 13px">
+        　 ■ 　A new GAIL is proposed with the restored action, which is useful to be applied when the actual action data of the demonstrator is not available.<br>
+         　■ 　A RGAN is proposed to generate the trajectory including the intention of the demonstrator. In RGAN, the state of the demonstrator and the recurrent state are                  used to generatethe trajectory to imitate the demonstrator’s behavior better than using the conventional GAN.<br>
+         　■ 　The experimental results of a drawing task on a 7 degree of freedom (DOF) Sawyer robot are obtained by using the proposed algorithm. The effectiveness of the      proposed RAGAIL with RGAN is verified by comparing with experimental results of using RAGAIL with the conventional GAN.<br>
+        </span>
+    </div>
+    
 </details>
     
 <br>
