@@ -25,6 +25,16 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
         </span>
     </div>
     <br>
+    <span style="font-size: 20px; color:black"> Main Result </span><br>
+    
+    <p align="center">
+    <img height="250" src="/assets/img/2021_ETRI/cleaning.gif">
+    <p style="text-align:center;">그림 1. PANDA 매니퓰레이터 클리닝 태스크 적용</p>
+    </p>
+    <p align="center">
+    <img height="250" src="/assets/img/2021_ETRI/writing.gif">
+    <p style="text-align:center;">그림 2. PANDA 매니퓰레이터 글쓰기 태스크 적용</p>
+    </p>
 <br>
 
 </details>
