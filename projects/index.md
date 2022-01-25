@@ -126,7 +126,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     </p>
     
     <p align="center">
-  <img height="250" src="/assets/img/2020_ETRI/gathering.png">
+  <img height="250" src="/assets/img/2020_ETRI/gathering.PNG">
     <p style="text-align:center;">그림 2. 시연데이터 수집을 위한 환경구성</p>
     </p>
     
