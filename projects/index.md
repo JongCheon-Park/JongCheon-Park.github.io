@@ -63,6 +63,43 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
         </span>
     </div>
     
+  <br>
+    <span style="font-size: 20px; color:black"> Main Result </span><br>
+    <p align="center">
+  <img height="250" src="/assets/img/paper/motivation.png">
+    <p style="text-align:center;">ROS 기반의 RNE 외력 추정 및 제어 시스템 구성</p>
+    </p>
+    
+    <p align="center">
+  <img height="250" src="/assets/img/paper/ragail.png">
+    <p style="text-align:center;">ROS 기반의 RNE 외력 추정 및 제어 시스템 구성</p>
+    </p>
+    
+    <p align="center">
+  <img height="250" src="/assets/img/paper/gathering.png">
+    <p style="text-align:center;">ROS 기반의 RNE 외력 추정 및 제어 시스템 구성</p>
+    </p>
+    
+    <p align="center">
+  <img height="250" src="/assets/img/paper/triangle.png">
+    <p style="text-align:center;">ROS 기반의 RNE 외력 추정 및 제어 시스템 구성</p>
+    </p>
+    
+    <p align="center">
+  <img height="250" src="/assets/img/paper/triangle2.png">
+    <p style="text-align:center;">ROS 기반의 RNE 외력 추정 및 제어 시스템 구성</p>
+    </p>
+    
+    <p align="center">
+  <img height="250" src="/assets/img/paper/triangle.gif">
+    <p style="text-align:center;">ROS 기반의 RNE 외력 추정 및 제어 시스템 구성</p>
+    </p>
+    
+    <p align="center">
+  <img height="250" src="/assets/img/paper/table.png">
+    <p style="text-align:center;">ROS 기반의 RNE 외력 추정 및 제어 시스템 구성</p>
+    </p>
+    
 </details>
     
 <br>
