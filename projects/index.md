@@ -45,11 +45,9 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     <span style="font-size: 20px; color:black"> Motivation </span><br>
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
-        　■ 　토크 센서가 없는 로봇 매니퓰레이터에 대한 수학적 모델 기반 외력 추정 알고리즘 개발<br>
-         　■ 　모델 불확실성에 강인한 센서리스 임피던스 제어 알고리즘 개발<br>
-         　■ 　7축 로봇 매니퓰레이터 대상 태스크 종속적인 임피던스 제어 타당성 검증<br>
-         　■ 　<b>[맡은 역할] 실험 환경 구성 및 알고리즘 코드 구현</b><br>
-         　■ 　<b>[맡은 역할] ROS 기반의 매니퓰레이터 제어 시스템 구축</b><br>
+        　 ■ 　일반적으로 로봇에 적용하기 위한 모방학습 알고리즘은 상태-행동 데이터 쌍을 필요로 한다. <br>기구학적 또는 비용적인 면에서 힘/토크 센서를 장착할 수 없는 경우에 시연으로부터 행동 데이터를 수집하기 어렵다.<br>
+         　■ 　관측에 의한 모방학습 방법은 상태 데이터만을 활용한 모방학습 방법으로 제안되었지만, 계산복잡성에 의해 실제 적용되기 어려운 문제가 있다.<br>
+         　■ 　행동 데이터를 수집할 수 없는 상황에 적용할 수 있는 효과적인 모방학습 방법이 필요하다. <br>
         </span>
     </div>
     <br>
@@ -57,9 +55,9 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     <span style="font-size: 20px; color:black"> Contribution </span><br>
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
-        　 ■ 　A new GAIL is proposed with the restored action, which is useful to be applied when the actual action data of the demonstrator is not available.<br>
-         　■ 　A RGAN is proposed to generate the trajectory including the intention of the demonstrator. In RGAN, the state of the demonstrator and the recurrent state are                  used to generatethe trajectory to imitate the demonstrator’s behavior better than using the conventional GAN.<br>
-         　■ 　The experimental results of a drawing task on a 7 degree of freedom (DOF) Sawyer robot are obtained by using the proposed algorithm. The effectiveness of the      proposed RAGAIL with RGAN is verified by comparing with experimental results of using RAGAIL with the conventional GAN.<br>
+        　 ■ 　복원된 행동을 제안하여 행동 데이터에 접근할 수 없는 경우에 적용할 수 있는 모방학습 방법을 제안한다.<br>
+         　■ 　시연자의 궤적 데이터를 효과적으로 학습할 수 있는 Recurrent Generative Adversarial Networks를 제안한다.<br>
+         　■ 　제안하는 방법을 7축 매니퓰레이터 'SAWYER'를 이용한 Drawing TASK에 적용하여 제안하는 방법의 우수성을 검증한다.<br>
         </span>
     </div>
     
