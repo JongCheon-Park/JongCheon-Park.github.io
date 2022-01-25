@@ -119,6 +119,42 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
         </span>
     </div>
     <br>
+        <span style="font-size: 20px; color:black"> 연구내용 </span><br>
+    
+    <p align="center">
+  <img height="250" src="/assets/img/2020_ETRI/stage.bmp">
+    <p style="text-align:center;">그림 1. 알고리즘 적용 순서</p>
+    </p>
+    
+    <p align="center">
+  <img height="250" src="/assets/img/2020_ETRI/gathering.png">
+    <p style="text-align:center;">그림 2. 시연데이터 수집을 위한 환경구성</p>
+    </p>
+    
+    <p align="center">
+  <img height="250" src="/assets/img/2020_ETRI/gazebo.bmp">
+    <p style="text-align:center;">그림 3. Gazebo환경 에서의 모방학습 테스트</p>
+    </p>
+    
+    <p align="center">
+  <img height="250" src="/assets/img/2020_ETRI/experiment2.bmp">
+    <p style="text-align:center;">그림 4. 물체의 무게에 따른 분류 작업 태스크 설명</p>
+    </p>
+    
+    <p align="center">
+  <img height="250" src="/assets/img/2020_ETRI/experiment.bmp">
+    <p style="text-align:center;">그림 5. 무게에 따라 각 관절에 측정되는 토크를 학습</p>
+    </p>
+
+    <p align="center">
+  <img height="250" src="/assets/img/2020_ETRI/experiment3.PNG">
+    <p style="text-align:center;">그림 6. 학습에 의한 무게에 따른 물체 분류 태스크</p>
+    </p>
+    
+    <p align="center">
+  <img height="250" src="/assets/img/2020_ETRI/ETRI.gif">
+    <p style="text-align:center;">그림 7. 학습에 의한 무게에 따른 물체 분류 태스크 영상</p>
+    </p>
 </details>
     
 <br>
