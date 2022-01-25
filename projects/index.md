@@ -177,7 +177,6 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
   <div markdown="1">
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
-<br>
 <p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
 　팔로워 로봇은 카메라를 이용하여 리더 로봇를 인식하고, 인식된 팔로워의 속도 및 각속도를 설계된 알고리즘에 의해 추정한다. 해당 프로젝트는 추정된 속도 및 각속도를 활용하여 리더-팔로워 추적 제어 구현을 목표로 한다.
 </p>
