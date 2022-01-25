@@ -145,7 +145,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     
 <p align="center">
   <img height="250" src="/assets/img/2019_ETRI/python_c.bmp">
-    <p style="text-align:center;">M,C,G 행렬 계산에 소요되는 시간 Python과 C의 비교</p>
+    <p style="text-align:center;">M,C,G 행렬 계산에 소요되는 시간 Python과 C++의 비교</p>
 </p>
 
 <p align="center">
@@ -164,6 +164,10 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     <p style="text-align:center;">각 조인트의 외력추정 성능 </p>
 </p>
 
+<span style="font-size: 20px; color:black"> 연구결과 </span><br>
+c++을 이용하여 7축 매니퓰레이터를 위한 recursive Newton-Eulor 방법을 코드로 구현함으로서 Python 코드 보다 26배 계산속도 향상<br>
+모델 불확실성에도 강인한 sliding mode observer 설계<br>
+외력 추정기 기반 Joint space의 임피던스 제어기 설계<br>
 
 </details>
     
