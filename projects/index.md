@@ -104,10 +104,21 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 <details>
   <summary> <span style="font-size: 20px"> (2020.04~2020.11) 다관절 로봇을 위한 인공지능 모방학습 기술 개발 </span> </summary>
   <div markdown="1">
-This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
+This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)<br>
+본 연구사업은 과학기술정보통신부의 출연금 등으로 수행하고 있는 <b>한국전자통신연구원의 대경권 지역산업 기반 ICT 융합기술 고도화 지원사업 위탁연구과제</b>입니다.
   </div>  
 <br>
-
+  <br>
+    <span style="font-size: 20px; color:black"> 연구목표 </span><br>
+    <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
+      <span style="font-size: 13px">
+        　■ 　<b>[맡은 역할] 가상환경을 활용한 로봇 매니퓰레이터의 경로 이동 모방학습방법 개발</b><br>
+         　■ 　<b>[맡은 역할] 로봇의 교시 작업 시 사용자 의도 파악(힘+경로)을 위한 모방학습 알고리즘 개발</b><br>
+         　■ 　<b>[맡은 역할] 다관절 로봇의 모방학습을 이용한 사용자 의도에 따른 접촉력 및 경로 이동작업 적용</b><br>
+         　■ 　<b>[맡은 역할] Gazebo 가상환경 기반의 매니퓰레이터를 위한 학습환경 구축</b><br>
+        </span>
+    </div>
+    <br>
 </details>
     
 <br>
@@ -118,7 +129,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 <details>
   <summary> <span style="font-size: 20px"> (2019.04~2019.11) 로봇의 센서리스 기반 외력 추정 및 임피던스 제어 </span> </summary>
   <div markdown="1">
-This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)<
+This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)<br>
 본 연구사업은 과학기술정보통신부의 출연금 등으로 수행하고 있는 <b>한국전자통신연구원의 대경권 지역산업 기반 ICT 융합기술 고도화 지원사업 위탁연구과제</b>입니다.
   </div>  
     
