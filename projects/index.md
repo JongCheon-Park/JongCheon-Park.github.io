@@ -68,39 +68,42 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     
     <p align="center">
     <img height="250" src="/assets/img/paper/motivation.png">
-    <p style="text-align:center;">ROS 기반의 RNE 외력 추정 및 제어 시스템 구성</p>
+    <p style="text-align:center;">그림 1. 복원된 행동의 필요성</p>
     </p>
     
     <p align="center">
     <img height="250" src="/assets/img/paper/ragil.png">
-    <p style="text-align:center;">ROS 기반의 RNE 외력 추정 및 제어 시스템 구성</p>
+    <p style="text-align:center;">그림 2. 제안하는 RAGAIL 방법의 구성</p>
     </p>
     
     <p align="center">
     <img height="250" src="/assets/img/paper/gathering.png">
-    <p style="text-align:center;">ROS 기반의 RNE 외력 추정 및 제어 시스템 구성</p>
+    <p style="text-align:center;">그림 3. 교시데이터 수집</p>
     </p>
     
     <p align="center">
     <img height="250" src="/assets/img/paper/triangle.png">
-    <p style="text-align:center;">ROS 기반의 RNE 외력 추정 및 제어 시스템 구성</p>
+    <p style="text-align:center;">그림 4. 삼각형 그리기 태스크 수행 궤적</p>
     </p>
     
     <p align="center">
     <img height="250" src="/assets/img/paper/triangle2.png">
-    <p style="text-align:center;">ROS 기반의 RNE 외력 추정 및 제어 시스템 구성</p>
+    <p style="text-align:center;">그림 5. 삼각형 그리기 태스크 수행 궤적 PLOT</p>
     </p>
     
     <p align="center">
     <img height="250" src="/assets/img/paper/triangle.gif">
-    <p style="text-align:center;">ROS 기반의 RNE 외력 추정 및 제어 시스템 구성</p>
+    <p style="text-align:center;">그림 6. 삼각형 그리기 태스크 수행 궤적 영상</p>
     </p>
     
     <p align="center">
     <img height="250" src="/assets/img/paper/table.png">
-    <p style="text-align:center;">ROS 기반의 RNE 외력 추정 및 제어 시스템 구성</p>
+    <p style="text-align:center;">그림 7. 기존의 방법들과 비교한 제안하는 방법의 우수성</p>
     </p>
     
+    <br>
+    <span style="font-size: 20px; color:black"> Conclusion </span><br>
+    전문가의 행동 데이터에 접근할 수 없는 상황에서 복원된 행동을 이용한 모방학습 방법을 이용하여 태스크를 수행할 수 있음을 확인하고 우수한 성능을 보이는 것을 실험을 통해 검증했다.
 </details>
     
 <br>
