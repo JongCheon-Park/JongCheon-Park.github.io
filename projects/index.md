@@ -13,8 +13,18 @@ comments: false
 <details>
   <summary> <span style="font-size: 20px"> (2021.04~2021.11) 다관절 로봇의 물리적 지능을 위한 교시학습 인공지능기술개발 </span> </summary>
   <div markdown="1">
-This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
+This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)<br>
+본 연구사업은 과학기술정보통신부의 출연금 등으로 수행하고 있는 <b>한국전자통신연구원의 대경권 지역산업 기반 ICT 융합기술 고도화 지원사업 위탁연구과제</b>입니다.
   </div>  
+    <span style="font-size: 20px; color:black"> 연구목표 </span><br>
+    <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
+      <span style="font-size: 13px">
+        　■ 　로봇 매니퓰레이터의 Task 적용을 위한 힘/위치 궤적 교시학습 시스템 구축<br>
+         　■ 　<b>[맡은 역할] 직접 교시를 통한 사용자 의도 파악(힘/위치)이 가능한 교시학습 알고리즘 개발</b><br>
+         　■ 　7축 다관절 로봇을 활용한 실제 작업에 대한 모방학습 알고리즘 적용 및 검증<br>
+        </span>
+    </div>
+    <br>
 <br>
 
 </details>
@@ -30,8 +40,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
       <br>본 논문은 2021년 5월 ISA Transactions (IF 5.468)에 투고하여 Major Revision을 거친 후 22년 1월 기준 <b>Under review</b> 상태 입니다.
   </div>  
-    
-  <br>
+   
     <span style="font-size: 20px; color:black"> Motivation </span><br>
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
@@ -107,7 +116,6 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)<br>
 본 연구사업은 과학기술정보통신부의 출연금 등으로 수행하고 있는 <b>한국전자통신연구원의 대경권 지역산업 기반 ICT 융합기술 고도화 지원사업 위탁연구과제</b>입니다.
   </div>  
-  <br>
     <span style="font-size: 20px; color:black"> 연구목표 </span><br>
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
@@ -168,7 +176,6 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 본 연구사업은 과학기술정보통신부의 출연금 등으로 수행하고 있는 <b>한국전자통신연구원의 대경권 지역산업 기반 ICT 융합기술 고도화 지원사업 위탁연구과제</b>입니다.
   </div>  
     
-  <br>
     <span style="font-size: 20px; color:black"> 연구목표 </span><br>
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
@@ -270,7 +277,6 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
   <div markdown="1">
 This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
   </div>  
-<br>
 <p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
@@ -328,8 +334,6 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
       본 연구사업은 과학기술정보통신부의 출연금 등으로 수행하고 있는 <b>한국전자통신연구원의 대경권 지역산업 기반 ICT 융합기술 고도화 지원사업 위탁연구과제</b>입니다.
 
   </div>  
-    
-  <br>
     <span style="font-size: 20px; color:black"> 연구목표 </span><br>
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
       <span style="font-size: 13px">
