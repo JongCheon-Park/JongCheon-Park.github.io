@@ -172,6 +172,9 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
   <img height="250" src="/assets/img/2020_ETRI/ETRI.gif">
     <p style="text-align:center;">그림 7. 학습에 의한 무게에 따른 물체 분류 태스크 영상</p>
     </p>
+    
+    
+<span style="font-size: 15px; color:black"> 1. 토크 센서에서 측정된 외부 토크 데이터를 수집하여 학습한다.<br> 2. 로봇의 각 조인트 각도 데이터를 수집하여 학습한다.<br> 3. 학습된 외력 추정 네트워크와 궤적 생성 네트워크 기반으로 시스템을 구성한다..<br> 4. 실제 로봇에 적용하여 태스크를 수행한다. <br> 실험결과 제안하는 알고리즘은 각기 다른 물병의 무게를 추정하고, 추정된 무게를 바탕으로 분류작업이 가능한 것을 확인하였다.</span><br>
 </details>
     
 <br>
