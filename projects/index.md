@@ -28,13 +28,30 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
     <span style="font-size: 20px; color:black"> 연구내용 </span><br>
     
     <p align="center">
-    <img height="250" src="/assets/img/2021_ETRI/cleaning.gif">
-    <p style="text-align:center;">그림 1. PANDA 매니퓰레이터 클리닝 태스크 적용</p>
+    <img height="250" src="/assets/img/2021_ETRI/block.bmp">
+    <p style="text-align:center;">그림 1. 다관절 로봇의 힘/위치 교시학습을 위한 프레임 워크 구성 </p>
     </p>
+    
+    <p align="center">
+    <img height="250" src="/assets/img/2021_ETRI/lstm.bmp">
+    <p style="text-align:center;">그림 2. 로봇의 교시학습을 위한 LSTM 구조</p>
+    </p>
+    
+    <p align="center">
+    <img height="250" src="/assets/img/2021_ETRI/demonstration.bmp">
+    <p style="text-align:center;">그림 3. ○ 또는 ☆ 모양의 궤적 교시</p>
+    </p>
+    
+    <p align="center">
+    <img height="250" src="/assets/img/2021_ETRI/cleaning.gif">
+    <p style="text-align:center;">그림 4. PANDA 매니퓰레이터 클리닝 태스크 적용</p>
+    </p>
+    
     <p align="center">
     <img height="250" src="/assets/img/2021_ETRI/writing.gif">
-    <p style="text-align:center;">그림 2. PANDA 매니퓰레이터 글쓰기 태스크 적용</p>
+    <p style="text-align:center;">그림 5. PANDA 매니퓰레이터 글쓰기 태스크 적용</p>
     </p>
+    
 <br>
 <span style="font-size: 20px; color:black"> 연구결과 </span><br>
 
