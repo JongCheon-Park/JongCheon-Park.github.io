@@ -14,7 +14,7 @@ comments: false
 # <span style="color:#800000">International Journal Papers</span>
 
 1. **Jongcheon Park**, Seungyong Han, and Sangmoon lee*, “Restored action generative adversarial imitation learning from observation for robot manipulator,” ISA Transactions 
-(22.02.22, Accepted, IF 5.468).
+(22.02.22, Accepted, IF 5.468). [Link](https://doi.org/10.1016/j.isatra.2022.02.041)
 
 2. Tuan-Linh Nguyen, **Jongcheon Park**, and Sangmoon lee*, “Interpretable Neuro-Fuzzy Control with Deep Reinforcement Learning,” IEEE Transactions on Circuits and Systems II : Express Briefs (Under Review, IF 3.292).
 
