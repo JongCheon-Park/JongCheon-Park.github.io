@@ -13,7 +13,7 @@ comments: false
 <details>
   <summary> <span style="font-size: 20px"> (2021.04~2021.11) 다관절 로봇의 물리적 지능을 위한 교시학습 인공지능기술개발 </span> </summary>
   <div markdown="1">
-This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)<br>
+This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io/)<br>
 본 연구사업은 과학기술정보통신부의 출연금 등으로 수행하고 있는 <b>한국전자통신연구원의 대경권 지역산업 기반 ICT 융합기술 고도화 지원사업 위탁연구과제</b>입니다.
   </div>  
     <span style="font-size: 20px; color:black"> 연구목표 </span><br>
@@ -64,10 +64,9 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 
 <br>
 <details>
-  <summary> <span style="font-size: 20px"> (2020.09~) [Paper] Restored Action Generative Adversarial Imitation Learning from Observation for Robot Manipulator - Under Review </span> </summary>
+  <summary> <span style="font-size: 20px"> (2020.09~) [Paper] Restored Action Generative Adversarial Imitation Learning from Observation for Robot Manipulator</span> </summary>
   <div markdown="1">
-This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
-      <br>본 논문은 2021년 5월 ISA Transactions (IF 5.468)에 투고하여 Major Revision을 거친 후 22년 1월 기준 <b>Under review</b> 상태 입니다.
+This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io/)
   </div>  
    
     <span style="font-size: 20px; color:black"> Motivation </span><br>
@@ -142,7 +141,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 <details>
   <summary> <span style="font-size: 20px"> (2020.04~2020.11) 다관절 로봇을 위한 인공지능 모방학습 기술 개발 </span> </summary>
   <div markdown="1">
-This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)<br>
+This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io/)<br>
 본 연구사업은 과학기술정보통신부의 출연금 등으로 수행하고 있는 <b>한국전자통신연구원의 대경권 지역산업 기반 ICT 융합기술 고도화 지원사업 위탁연구과제</b>입니다.
   </div>  
     <span style="font-size: 20px; color:black"> 연구목표 </span><br>
@@ -207,7 +206,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 <details>
   <summary> <span style="font-size: 20px"> (2019.04~2019.11) 로봇의 센서리스 기반 외력 추정 및 임피던스 제어 </span> </summary>
   <div markdown="1">
-This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)<br>
+This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io/)<br>
 본 연구사업은 과학기술정보통신부의 출연금 등으로 수행하고 있는 <b>한국전자통신연구원의 대경권 지역산업 기반 ICT 융합기술 고도화 지원사업 위탁연구과제</b>입니다.
   </div>  
     
@@ -267,7 +266,7 @@ c++을 이용하여 7축 매니퓰레이터를 위한 recursive Newton-Eulor 방
 <details>
   <summary> <span style="font-size: 20px"> (2019.03~2019.11) 지능형 이동로봇 추적제어 알고리즘 구현 및 실험 </span> </summary>
   <div markdown="1">
-This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
+This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io/)
   </div>  
 <p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
 　팔로워 로봇은 카메라를 이용하여 리더 로봇를 인식하고, 인식된 팔로워의 속도 및 각속도를 설계된 알고리즘에 의해 추정한다. 해당 프로젝트는 추정된 속도 및 각속도를 활용하여 리더-팔로워 추적 제어 구현을 목표로 한다.
@@ -310,7 +309,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 <details>
   <summary> <span style="font-size: 20px"> (2018.06~2018.11) 2018 R-BIZ challenge  터틀봇3 오토레이스 </span> </summary>
   <div markdown="1">
-This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)
+This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io/)
   </div>  
 <p style="font-size:1rem;font-weight:400" onContextMenu="return false;" onselectstart="return false" ondragstart="return false">
     <div style="border: 1px solid black; padding: 10px; border-color: LightGray; background-color: rgba(211, 211, 211, 0.2);"> 
@@ -365,7 +364,7 @@ This project was conducted at <span style="color:#3399ff">Cyber Physical System 
 <details>
   <summary> <span style="font-size: 20px"> (2018.06~2018.11) 다중주기 센서융합 기반 이동체 실시간 예측 제어 연구 </span> </summary>
   <div markdown="1">
-This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](http://control.knu.ac.kr/)<br>
+This project was conducted at <span style="color:#3399ff">Cyber Physical System Control Lab in Kyungpook National University</span> : [Link](https://cpsc-lab.github.io/)<br>
       본 연구사업은 과학기술정보통신부의 출연금 등으로 수행하고 있는 <b>한국전자통신연구원의 대경권 지역산업 기반 ICT 융합기술 고도화 지원사업 위탁연구과제</b>입니다.
 
   </div>  
