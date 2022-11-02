@@ -62,6 +62,7 @@ github-url:         JongCheon-Park
 #xmpp:              username@server.com
 #hackernews:        username
 
+
 # Gems
 gems:
   - jekyll-mentions
