@@ -9,7 +9,9 @@ comments: false
     
 <p align="center"><img src="/assets/img/selfie.jpg"></p><br>
 <p align="center"><span style='font-size: 30px'><b>박 종 천</b></span></p><br>
-    
+
+## Work Experience
+- 2022.03 ~ : Volvo Construction Equipment : AI Application Engineer
 ## Education
 
 - 2020.03 ~ 2022.02 : 경북대학교 전기전자공학부 석사 [[Link](http://cpsc-lab.github.io)] <br>
